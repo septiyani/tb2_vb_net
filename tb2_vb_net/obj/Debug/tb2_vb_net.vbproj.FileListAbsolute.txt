@@ -1,1 +1,10 @@
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vb_net\tb2_vb_net\bin\Debug\tb2_vb_net.exe.config
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\bin\Debug\tb2_vb_net.exe.config
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\bin\Debug\tb2_vb_net.exe
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\bin\Debug\tb2_vb_net.pdb
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\bin\Debug\tb2_vb_net.xml
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.Resources.resources
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.vbproj.GenerateResource.Cache
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.exe
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.xml
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.pdb
