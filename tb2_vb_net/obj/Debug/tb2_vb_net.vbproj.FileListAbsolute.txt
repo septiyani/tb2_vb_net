@@ -3,6 +3,12 @@ C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\bin\
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\bin\Debug\tb2_vb_net.exe
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\bin\Debug\tb2_vb_net.pdb
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\bin\Debug\tb2_vb_net.xml
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\bin\Debug\Antlr3.Runtime.dll
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\bin\Debug\Renci.SshNet.dll
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.RumahSakit.resources
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.Form2.resources
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.Dashboard.resources
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.Resources.resources
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.vbproj.GenerateResource.Cache
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.exe
