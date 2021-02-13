@@ -9,6 +9,7 @@ C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\bin\
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.RumahSakit.resources
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.Form2.resources
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.Dashboard.resources
+C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.Form4.resources
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.Resources.resources
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.vbproj.GenerateResource.Cache
 C:\Users\MNCSHOP\Documents\Visual Studio 2012\Projects\tb2_vbnet\tb2_vb_net\obj\Debug\tb2_vb_net.exe

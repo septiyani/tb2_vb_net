@@ -14,5 +14,11 @@ Public Class Dashboard
         RumahSakit.Focus()
         Form2.Close()
     End Sub
+
+    Private Sub MonotingKarywanaToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles MonotingKarywanaToolStripMenuItem.Click
+        Form2.MdiParent = Me
+        Form2.Show()
+        Form2.Focus()
+    End Sub
 End Class
 

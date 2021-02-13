@@ -25,6 +25,7 @@ Public Class Form2
             Label4.Text = playerA.dirawat
             Label6.Text = playerA.sembuh
             Label7.Text = playerA.meninggal
+            Label11.Text = DateTime.Now.ToString("dd MMMM yyyy HH:mm:ss")
 
 
 

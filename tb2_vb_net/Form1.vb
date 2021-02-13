@@ -1,6 +1,7 @@
 ﻿Imports System.Data.Odbc
 Imports MySql.Data.MySqlClient
 Imports System.Web.Script.Serialization
+
 Imports System.Net
 
 Public Class RumahSakit
@@ -11,6 +12,7 @@ Public Class RumahSakit
     Dim jarak As String
     Dim Langi As String
     Dim Longi As String
+    
 
 
 
@@ -240,6 +242,22 @@ Public Class RumahSakit
             MsgBox(ex.ToString)
         End Try
         rdDB.Close()
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Dim a As New CrystalReport2
+        Dim b As New Form4
+
+        If ComboBox1.Text <> "" Then
+            filter_search += "{rs_rujukan1.wilayah} ='" & ComboBox1.Text & "'"
+        ElseIf ComboBox2.Text <> "" Then
+            filter_search += "AND {rs_rujukan1.tipe} ='" & ComboBox2.Text & "'"
+        Else
+            filter_search = ""
+        End If
+        b.CrystalReportViewer1.SelectionFormula = "" & filter_search
+        b.CrystalReportViewer1.ReportSource = a
+        b.ShowDialog()
     End Sub
 End Class
 Class map
